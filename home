@@ -1,0 +1,5021 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>HDtoday website - Free Movies and Free Series Online</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ 
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+ 
+<meta http-equiv="content-language" content="en"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//www.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//static.zdassets.com">
+<link rel="dns-prefetch" href="//s7.addthis.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//graph.facebook.com">
+<meta name="description" content="Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW"/>
+<meta name="keywords" content="movies free, stream hd, hd movies watch, watch movies free, watch series free, watch movies online, watch series online, free movies, free tv shows"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+<link rel="shortcut icon" href="https://img.hdtoday.cc/xxrz/100x100/100/ed/2a/ed2a7fa3244ddc585a0a0fdbaf835359/ed2a7fa3244ddc585a0a0fdbaf835359.png" type="image/x-icon"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://hdtoday.cc/home"/>
+<meta property="og:title"
+      content="HDtoday website - Free Movies and Free Series Online"/>
+<meta property="og:image" content="https://img.hdtoday.cc/xxrz/1300x700/100/87/db/87db01c609dc3a0e1c1349d50d9efc6d/87db01c609dc3a0e1c1349d50d9efc6d.png"/>
+<meta property="og:image:width" content="650">
+<meta property="og:image:height" content="350">
+<meta property="og:description" content="Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW"/>
+<!--Begin: Stylesheet-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+<link rel="stylesheet"
+      href="/css/group_1/theme_7/style.min.css?v=8.4">
+<!--End: Stylesheet-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"></script>
+ 
+    <script>var recaptcha_site_key = '6Lcg5_EdAAAAAEa2ScxgljRpLkIt8yixSBJWdRPE';</script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcg5_EdAAAAAEa2ScxgljRpLkIt8yixSBJWdRPE"></script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src=""https://www.googletagmanager.com/gtag/js?id=UA-219579751-1""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-219579751-1');
+</script>
+ 
+ 
+ 
+</head>
+<body>
+<div id="app">
+ 
+<div id="sidebar_menu_bg"></div>
+<div id="sidebar_menu">
+    <button class="btn btn-radius btn-sm btn-secondary toggle-sidebar"><i class="fa fa-angle-left mr-2"></i>Close menu
+    </button>
+    <ul class="nav sidebar_menu-list">
+        <li class="nav-item active"><a class="nav-link" href="/"
+                                       title="Home">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="javascript:void(0)"
+                                title="Genre">Genre</a>
+            <div class="toggle-submenu" data-toggle="collapse" data-target="#sidebar_subs_genre" aria-expanded="false"
+                 aria-controls="sidebar_subs_genre"><i class="more-less fa fa-plus-square"></i></div>
+            <div class="collapse multi-collapse sidebar_menu-sub" id="sidebar_subs_genre">
+                <ul class="nav sub-menu">
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/action"
+                                                title="Action">Action</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/action-adventure"
+                                                title="Action &amp; Adventure">Action &amp; Adventure</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/adventure"
+                                                title="Adventure">Adventure</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/animation"
+                                                title="Animation">Animation</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/biography"
+                                                title="Biography">Biography</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/comedy"
+                                                title="Comedy">Comedy</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/crime"
+                                                title="Crime">Crime</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/documentary"
+                                                title="Documentary">Documentary</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/drama"
+                                                title="Drama">Drama</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/family"
+                                                title="Family">Family</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/fantasy"
+                                                title="Fantasy">Fantasy</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/history"
+                                                title="History">History</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/horror"
+                                                title="Horror">Horror</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/kids"
+                                                title="Kids">Kids</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/music"
+                                                title="Music">Music</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/mystery"
+                                                title="Mystery">Mystery</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/news"
+                                                title="News">News</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/reality"
+                                                title="Reality">Reality</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/romance"
+                                                title="Romance">Romance</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/sci-fi-fantasy"
+                                                title="Sci-Fi &amp; Fantasy">Sci-Fi &amp; Fantasy</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/science-fiction"
+                                                title="Science Fiction">Science Fiction</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/soap"
+                                                title="Soap">Soap</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/talk"
+                                                title="Talk">Talk</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/thriller"
+                                                title="Thriller">Thriller</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/tv-movie"
+                                                title="TV Movie">TV Movie</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/war"
+                                                title="War">War</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/war-politics"
+                                                title="War &amp; Politics">War &amp; Politics</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/genre/western"
+                                                title="Western">Western</a></li>
+ 
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="javascript:void(0)"
+                                title="Country">Country</a>
+            <div class="toggle-submenu" data-toggle="collapse" data-target="#sidebar_subs_country" aria-expanded="false"
+                 aria-controls="sidebar_subs_country"><i class="more-less fa fa-plus-square"></i></div>
+            <div class="collapse multi-collapse sidebar_menu-sub" id="sidebar_subs_country">
+                <ul class="nav sub-menu">
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/AR"
+                                                title="Argentina">Argentina</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/AU"
+                                                title="Australia">Australia</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/AT"
+                                                title="Austria">Austria</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/BE"
+                                                title="Belgium">Belgium</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/BR"
+                                                title="Brazil">Brazil</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/CA"
+                                                title="Canada">Canada</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/CN"
+                                                title="China">China</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/CZ"
+                                                title="Czech Republic">Czech Republic</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/DK"
+                                                title="Denmark">Denmark</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/FI"
+                                                title="Finland">Finland</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/FR"
+                                                title="France">France</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/DE"
+                                                title="Germany">Germany</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/HK"
+                                                title="Hong Kong">Hong Kong</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/HU"
+                                                title="Hungary">Hungary</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/IN"
+                                                title="India">India</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/IE"
+                                                title="Ireland">Ireland</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/IL"
+                                                title="Israel">Israel</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/IT"
+                                                title="Italy">Italy</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/JP"
+                                                title="Japan">Japan</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/LU"
+                                                title="Luxembourg">Luxembourg</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/MX"
+                                                title="Mexico">Mexico</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/NL"
+                                                title="Netherlands">Netherlands</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/NZ"
+                                                title="New Zealand">New Zealand</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/NO"
+                                                title="Norway">Norway</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/PL"
+                                                title="Poland">Poland</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/RO"
+                                                title="Romania">Romania</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/RU"
+                                                title="Russia">Russia</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/ZA"
+                                                title="South Africa">South Africa</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/KR"
+                                                title="South Korea">South Korea</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/ES"
+                                                title="Spain">Spain</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/SE"
+                                                title="Sweden">Sweden</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/CH"
+                                                title="Switzerland">Switzerland</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/TW"
+                                                title="Taiwan">Taiwan</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/TH"
+                                                title="Thailand">Thailand</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/GB"
+                                                title="United Kingdom">United Kingdom</a></li>
+ 
+                        <li class="nav-item"><a class="nav-link" href="/country/US"
+                                                title="United States of America">United States of America</a></li>
+ 
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="/movie"
+                                title="Movies">Movies</a></li>
+        <li class="nav-item"><a class="nav-link" href="/tv-show"
+                                title="TV Shows">TV Shows</a></li>
+        <li class="nav-item"><a class="nav-link" href="/top-imdb"
+                                title="Top IMDB">Top IMDB</a></li>
+        <li class="nav-item"><a class="nav-link" href="/android-movies-apk" title="Android App">Android App</a></li>
+    </ul>
+    <div class="clearfix"></div>
+</div>
+ 
+    <div id="wrapper">
+        <div id="header" class="header-home-fix">
+    <div class="container">
+        <div id="mobile_menu"><i class="fa fa-bars"></i></div>
+        <a href="/" id="logo" title="HDToday">
+            <img src="https://img.hdtoday.cc/xxrz/400x400/100/c4/93/c49337aa9c92d6fbf56b6b5830c6849c/c49337aa9c92d6fbf56b6b5830c6849c.png" alt="Logo">
+ 
+        </a>
+ 
+        <div id="header_menu">
+            <ul class="nav header_menu-list">
+                <li class="nav-item"><a href="/" title="Home">Home</a></li>
+                <li class="nav-item"><a href="javascript:void(0)"
+                                        title="Genre">Genre</a>
+                    <div class="header_menu-sub" style="display: none">
+                        <ul class="sub-menu">
+ 
+                                <li><a href="/genre/action" title="Action">
+                                        Action
+                                    </a></li>
+ 
+                                <li><a href="/genre/action-adventure" title="Action &amp; Adventure">
+                                        Action &amp; Adventure
+                                    </a></li>
+ 
+                                <li><a href="/genre/adventure" title="Adventure">
+                                        Adventure
+                                    </a></li>
+ 
+                                <li><a href="/genre/animation" title="Animation">
+                                        Animation
+                                    </a></li>
+ 
+                                <li><a href="/genre/biography" title="Biography">
+                                        Biography
+                                    </a></li>
+ 
+                                <li><a href="/genre/comedy" title="Comedy">
+                                        Comedy
+                                    </a></li>
+ 
+                                <li><a href="/genre/crime" title="Crime">
+                                        Crime
+                                    </a></li>
+ 
+                                <li><a href="/genre/documentary" title="Documentary">
+                                        Documentary
+                                    </a></li>
+ 
+                                <li><a href="/genre/drama" title="Drama">
+                                        Drama
+                                    </a></li>
+ 
+                                <li><a href="/genre/family" title="Family">
+                                        Family
+                                    </a></li>
+ 
+                                <li><a href="/genre/fantasy" title="Fantasy">
+                                        Fantasy
+                                    </a></li>
+ 
+                                <li><a href="/genre/history" title="History">
+                                        History
+                                    </a></li>
+ 
+                                <li><a href="/genre/horror" title="Horror">
+                                        Horror
+                                    </a></li>
+ 
+                                <li><a href="/genre/kids" title="Kids">
+                                        Kids
+                                    </a></li>
+ 
+                                <li><a href="/genre/music" title="Music">
+                                        Music
+                                    </a></li>
+ 
+                                <li><a href="/genre/mystery" title="Mystery">
+                                        Mystery
+                                    </a></li>
+ 
+                                <li><a href="/genre/news" title="News">
+                                        News
+                                    </a></li>
+ 
+                                <li><a href="/genre/reality" title="Reality">
+                                        Reality
+                                    </a></li>
+ 
+                                <li><a href="/genre/romance" title="Romance">
+                                        Romance
+                                    </a></li>
+ 
+                                <li><a href="/genre/sci-fi-fantasy" title="Sci-Fi &amp; Fantasy">
+                                        Sci-Fi &amp; Fantasy
+                                    </a></li>
+ 
+                                <li><a href="/genre/science-fiction" title="Science Fiction">
+                                        Science Fiction
+                                    </a></li>
+ 
+                                <li><a href="/genre/soap" title="Soap">
+                                        Soap
+                                    </a></li>
+ 
+                                <li><a href="/genre/talk" title="Talk">
+                                        Talk
+                                    </a></li>
+ 
+                                <li><a href="/genre/thriller" title="Thriller">
+                                        Thriller
+                                    </a></li>
+ 
+                                <li><a href="/genre/tv-movie" title="TV Movie">
+                                        TV Movie
+                                    </a></li>
+ 
+                                <li><a href="/genre/war" title="War">
+                                        War
+                                    </a></li>
+ 
+                                <li><a href="/genre/war-politics" title="War &amp; Politics">
+                                        War &amp; Politics
+                                    </a></li>
+ 
+                                <li><a href="/genre/western" title="Western">
+                                        Western
+                                    </a></li>
+ 
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                <li class="nav-item"><a href="javascript:void(0)"
+                                        title="Country">Country</a>
+                    <div class="header_menu-sub" style="display: none">
+                        <ul class="sub-menu">
+ 
+                                <li><a href="/country/AR" title="Argentina">
+                                        Argentina
+                                    </a></li>
+ 
+                                <li><a href="/country/AU" title="Australia">
+                                        Australia
+                                    </a></li>
+ 
+                                <li><a href="/country/AT" title="Austria">
+                                        Austria
+                                    </a></li>
+ 
+                                <li><a href="/country/BE" title="Belgium">
+                                        Belgium
+                                    </a></li>
+ 
+                                <li><a href="/country/BR" title="Brazil">
+                                        Brazil
+                                    </a></li>
+ 
+                                <li><a href="/country/CA" title="Canada">
+                                        Canada
+                                    </a></li>
+ 
+                                <li><a href="/country/CN" title="China">
+                                        China
+                                    </a></li>
+ 
+                                <li><a href="/country/CZ" title="Czech Republic">
+                                        Czech Republic
+                                    </a></li>
+ 
+                                <li><a href="/country/DK" title="Denmark">
+                                        Denmark
+                                    </a></li>
+ 
+                                <li><a href="/country/FI" title="Finland">
+                                        Finland
+                                    </a></li>
+ 
+                                <li><a href="/country/FR" title="France">
+                                        France
+                                    </a></li>
+ 
+                                <li><a href="/country/DE" title="Germany">
+                                        Germany
+                                    </a></li>
+ 
+                                <li><a href="/country/HK" title="Hong Kong">
+                                        Hong Kong
+                                    </a></li>
+ 
+                                <li><a href="/country/HU" title="Hungary">
+                                        Hungary
+                                    </a></li>
+ 
+                                <li><a href="/country/IN" title="India">
+                                        India
+                                    </a></li>
+ 
+                                <li><a href="/country/IE" title="Ireland">
+                                        Ireland
+                                    </a></li>
+ 
+                                <li><a href="/country/IL" title="Israel">
+                                        Israel
+                                    </a></li>
+ 
+                                <li><a href="/country/IT" title="Italy">
+                                        Italy
+                                    </a></li>
+ 
+                                <li><a href="/country/JP" title="Japan">
+                                        Japan
+                                    </a></li>
+ 
+                                <li><a href="/country/LU" title="Luxembourg">
+                                        Luxembourg
+                                    </a></li>
+ 
+                                <li><a href="/country/MX" title="Mexico">
+                                        Mexico
+                                    </a></li>
+ 
+                                <li><a href="/country/NL" title="Netherlands">
+                                        Netherlands
+                                    </a></li>
+ 
+                                <li><a href="/country/NZ" title="New Zealand">
+                                        New Zealand
+                                    </a></li>
+ 
+                                <li><a href="/country/NO" title="Norway">
+                                        Norway
+                                    </a></li>
+ 
+                                <li><a href="/country/PL" title="Poland">
+                                        Poland
+                                    </a></li>
+ 
+                                <li><a href="/country/RO" title="Romania">
+                                        Romania
+                                    </a></li>
+ 
+                                <li><a href="/country/RU" title="Russia">
+                                        Russia
+                                    </a></li>
+ 
+                                <li><a href="/country/ZA" title="South Africa">
+                                        South Africa
+                                    </a></li>
+ 
+                                <li><a href="/country/KR" title="South Korea">
+                                        South Korea
+                                    </a></li>
+ 
+                                <li><a href="/country/ES" title="Spain">
+                                        Spain
+                                    </a></li>
+ 
+                                <li><a href="/country/SE" title="Sweden">
+                                        Sweden
+                                    </a></li>
+ 
+                                <li><a href="/country/CH" title="Switzerland">
+                                        Switzerland
+                                    </a></li>
+ 
+                                <li><a href="/country/TW" title="Taiwan">
+                                        Taiwan
+                                    </a></li>
+ 
+                                <li><a href="/country/TH" title="Thailand">
+                                        Thailand
+                                    </a></li>
+ 
+                                <li><a href="/country/GB" title="United Kingdom">
+                                        United Kingdom
+                                    </a></li>
+ 
+                                <li><a href="/country/US" title="United States of America">
+                                        United States of America
+                                    </a></li>
+ 
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                </li>
+                <li class="nav-item"><a href="/movie" title="Movies">Movies</a>
+                </li>
+                <li class="nav-item"><a href="/tv-show"
+                                        title="TV Shows">TV Shows</a></li>
+                <li class="nav-item"><a href="/top-imdb"
+                                        title="Top IMDB">Top IMDB</a></li>
+                <li class="nav-item"><a href="/android-movies-apk" title="Android App">Android App</a></li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+ 
+        <div id="header_right">
+            <div id="search">
+                <div class="search-content">
+                    <form @submit="search">
+                        <div class="search-icon"><i class="fa fa-search"></i></div>
+                        <input v-model="keyword" type="text" class="form-control search-input" autocomplete="off"
+                               name="keyword" placeholder="Enter keywords...">
+                    </form>
+                    <div class="nav search-result-pop search-suggest"></div>
+                </div>
+            </div>
+            <div id="user-slot"></div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+        <!--begin: header-home-add-->
+        <div class="header-home-add">
+            <div class="search-home-title">
+                <h5 class="sht-heading">Find Movies, TV shows and more</h5>
+            </div>
+            <div id="search-home">
+                <div class="search-content">
+                    <form @submit="search">
+                        <div class="search-icon"><i class="fa fa-search"></i></div>
+                        <input v-model="keyword" type="text" class="form-control search-input" name="keyword"
+                               placeholder="Enter keywords..." autocomplete="off">
+                        <button class="btn btn-primary btn-primary-submit"><i class="fas fa-arrow-right"></i></button>
+                    </form>
+                    <div class="nav search-result-pop search-suggest"></div>
+                </div>
+            </div>
+        </div>
+        <!--End: header-home-add-->
+    </div>
+</div>
+ 
+        <div id="main-wrapper">
+            <div class="container">
+ 
+ 
+                <div class="addthis_inline_share_toolbox" data-url="https://hdtoday.cc/home"
+                     style="margin-top: 20px; margin-bottom: 20px; text-align: center;"></div>
+                <div style="text-align:center;margin-bottom: 20px;margin-top:20px;display:none;" id="gift-top"></div>
+                <section class="block_area block_area_home section-id-01">
+                    <div class="block_area-header block_area-header-tabs">
+                        <div class="float-left bah-heading mr-4">
+                            <h2 class="cat-heading">Trending</h2>
+                        </div>
+                        <div class="float-left bah-tabs">
+                            <ul class="nav nav-tabs pre-tabs">
+                                <li class="nav-item"><a class="nav-link active" data-toggle="tab"
+                                                        href="#trending-movies"
+                                                        title="Trending Movies"><i
+                                                class="fa fa-play-circle mr-2"></i> Movies</a></li>
+                                <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#trending-tv"
+                                                        title="Trending TV Shows"><i
+                                                class="fa fa-list mr-2"></i> TV Shows</a></li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="tab-content">
+                        <div id="trending-movies" class="tab-pane active">
+                            <div class="block_area-content block_area-list film_list film_list-grid">
+                                <div class="film_list-wrap">
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/e7/5d/e75d183da831b9c2b46d7a0968c87226/e75d183da831b9c2b46d7a0968c87226.jpg"
+             class="film-poster-img lazyload" title="Doctor Strange in the Multiverse of Madness"
+             alt="watch-Doctor Strange in the Multiverse of Madness">
+        <a href="/movie/watch-doctor-strange-in-the-multiverse-of-madness-full-66671"
+           class="film-poster-ahref flw-item-tip" 
+           title="Doctor Strange in the Multiverse of Madness"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-doctor-strange-in-the-multiverse-of-madness-full-66671" 
+                        title="Doctor Strange in the Multiverse of Madness">Doctor Strange in the Multiverse of Madness</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">180m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/47/77/477779351b7158787f0c0759b53b3dc8/477779351b7158787f0c0759b53b3dc8.jpg"
+             class="film-poster-img lazyload" title="Blasted"
+             alt="watch-Blasted">
+        <a href="/movie/watch-blasted-full-83794"
+           class="film-poster-ahref flw-item-tip" 
+           title="Blasted"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-blasted-full-83794" 
+                        title="Blasted">Blasted</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">114m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/68/87/6887e19c1dc055f8176618c06aef6ab7/6887e19c1dc055f8176618c06aef6ab7.jpg"
+             class="film-poster-img lazyload" title="The Man From Toronto"
+             alt="watch-The Man From Toronto">
+        <a href="/movie/watch-the-man-from-toronto-full-81808"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Man From Toronto"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-man-from-toronto-full-81808" 
+                        title="The Man From Toronto">The Man From Toronto</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">110m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">CAM</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/8c/76/8c76f7ba1f8d85c3c260b7347e1e64cc/8c76f7ba1f8d85c3c260b7347e1e64cc.jpg"
+             class="film-poster-img lazyload" title="Top Gun: Maverick"
+             alt="watch-Top Gun: Maverick">
+        <a href="/movie/watch-top-gun-maverick-full-5448"
+           class="film-poster-ahref flw-item-tip" 
+           title="Top Gun: Maverick"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-top-gun-maverick-full-5448" 
+                        title="Top Gun: Maverick">Top Gun: Maverick</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">131m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">CAM</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/25/18/251888549f5ae476d08db67ad576c63e/251888549f5ae476d08db67ad576c63e.jpg"
+             class="film-poster-img lazyload" title="Minions: The Rise of Gru"
+             alt="watch-Minions: The Rise of Gru">
+        <a href="/movie/watch-minions-the-rise-of-gru-full-82060"
+           class="film-poster-ahref flw-item-tip" 
+           title="Minions: The Rise of Gru"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-minions-the-rise-of-gru-full-82060" 
+                        title="Minions: The Rise of Gru">Minions: The Rise of Gru</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">87m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/8b/28/8b28019739d9f7827c3d6bafc14eb685/8b28019739d9f7827c3d6bafc14eb685.jpg"
+             class="film-poster-img lazyload" title="Men"
+             alt="watch-Men">
+        <a href="/movie/watch-men-full-81034"
+           class="film-poster-ahref flw-item-tip" 
+           title="Men"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-men-full-81034" 
+                        title="Men">Men</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">100m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/27/b8/27b8a50a3580f2abb03e45f81e23fccc/27b8a50a3580f2abb03e45f81e23fccc.jpg"
+             class="film-poster-img lazyload" title="Rise"
+             alt="watch-Rise">
+        <a href="/movie/watch-rise-full-83476"
+           class="film-poster-ahref flw-item-tip" 
+           title="Rise"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-rise-full-83476" 
+                        title="Rise">Rise</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">111m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/17/6a/176a20f346fd851a98c88f6c46acb6f5/176a20f346fd851a98c88f6c46acb6f5.jpg"
+             class="film-poster-img lazyload" title="Fantastic Beasts: The Secrets of Dumbledore"
+             alt="watch-Fantastic Beasts: The Secrets of Dumbledore">
+        <a href="/movie/watch-fantastic-beasts-the-secrets-of-dumbledore-full-76075"
+           class="film-poster-ahref flw-item-tip" 
+           title="Fantastic Beasts: The Secrets of Dumbledore"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-fantastic-beasts-the-secrets-of-dumbledore-full-76075" 
+                        title="Fantastic Beasts: The Secrets of Dumbledore">Fantastic Beasts: The Secrets of Dumbledore</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">136m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">CAM</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/5f/54/5f54dbb5f54b346e5f9396638c8d7255/5f54dbb5f54b346e5f9396638c8d7255.jpg"
+             class="film-poster-img lazyload" title="Jurassic World Dominion"
+             alt="watch-Jurassic World Dominion">
+        <a href="/movie/watch-jurassic-world-3-full-7096"
+           class="film-poster-ahref flw-item-tip" 
+           title="Jurassic World Dominion"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-jurassic-world-3-full-7096" 
+                        title="Jurassic World Dominion">Jurassic World Dominion</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">147m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">SD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ee/3f/ee3fb134ed58c461f8c4a948492e88a3/ee3fb134ed58c461f8c4a948492e88a3.jpg"
+             class="film-poster-img lazyload" title="Lightyear"
+             alt="watch-Lightyear">
+        <a href="/movie/watch-lightyear-full-82063"
+           class="film-poster-ahref flw-item-tip" 
+           title="Lightyear"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-lightyear-full-82063" 
+                        title="Lightyear">Lightyear</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">105m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/44/54/4454b905c18670de60b09fd624fccd0c/4454b905c18670de60b09fd624fccd0c.jpg"
+             class="film-poster-img lazyload" title="Spider-Man: No Way Home"
+             alt="watch-Spider-Man: No Way Home">
+        <a href="/movie/watch-spider-man-no-way-home-full-71326"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Spider-Man: No Way Home"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-spider-man-no-way-home-full-71326" rel=&#34;nofollow&#34;
+                        title="Spider-Man: No Way Home">Spider-Man: No Way Home</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2021</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">148m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/dd/31/dd31428b33327f67777839b4339f1079/dd31428b33327f67777839b4339f1079.jpg"
+             class="film-poster-img lazyload" title="Everything Everywhere All at Once"
+             alt="watch-Everything Everywhere All at Once">
+        <a href="/movie/watch-everything-everywhere-all-at-once-full-78619"
+           class="film-poster-ahref flw-item-tip" 
+           title="Everything Everywhere All at Once"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-everything-everywhere-all-at-once-full-78619" 
+                        title="Everything Everywhere All at Once">Everything Everywhere All at Once</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">139m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">CAM</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/e7/a3/e7a32fc9a23672a53b049e2e00b4fa8f/e7a32fc9a23672a53b049e2e00b4fa8f.jpg"
+             class="film-poster-img lazyload" title="Elvis"
+             alt="watch-Elvis">
+        <a href="/movie/watch-elvis-full-81586"
+           class="film-poster-ahref flw-item-tip" 
+           title="Elvis"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-elvis-full-81586" 
+                        title="Elvis">Elvis</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">159m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">CAM</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/f6/7d/f67d5d3a5213c8b05e59bb0c2340397c/f67d5d3a5213c8b05e59bb0c2340397c.jpg"
+             class="film-poster-img lazyload" title="The Black Phone"
+             alt="watch-The Black Phone">
+        <a href="/movie/watch-the-black-phone-full-81583"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Black Phone"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-black-phone-full-81583" 
+                        title="The Black Phone">The Black Phone</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">102m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/07/ee/07ee1d0becc43df040a6c8e500c8f249/07ee1d0becc43df040a6c8e500c8f249.jpg"
+             class="film-poster-img lazyload" title="Sonic the Hedgehog 2"
+             alt="watch-Sonic the Hedgehog 2">
+        <a href="/movie/watch-sonic-the-hedgehog-2-full-78778"
+           class="film-poster-ahref flw-item-tip" 
+           title="Sonic the Hedgehog 2"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-sonic-the-hedgehog-2-full-78778" 
+                        title="Sonic the Hedgehog 2">Sonic the Hedgehog 2</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">122m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/95/1c/951ce8b01e05cf5b21b4801e621bb4fb/951ce8b01e05cf5b21b4801e621bb4fb.jpg"
+             class="film-poster-img lazyload" title="Morbius"
+             alt="watch-Morbius">
+        <a href="/movie/watch-morbius-full-66667"
+           class="film-poster-ahref flw-item-tip" 
+           title="Morbius"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-morbius-full-66667" 
+                        title="Morbius">Morbius</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">104m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/21/2d/212d2d95b9d515504a4de227d49a769f/212d2d95b9d515504a4de227d49a769f.jpg"
+             class="film-poster-img lazyload" title="The Batman"
+             alt="watch-The Batman">
+        <a href="/movie/watch-the-batman-full-16076"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Batman"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-batman-full-16076" 
+                        title="The Batman">The Batman</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">176m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/df/51/df5185f009c0d5c2c075fa5456701381/df5185f009c0d5c2c075fa5456701381.jpg"
+             class="film-poster-img lazyload" title="Crimes of the Future"
+             alt="watch-Crimes of the Future">
+        <a href="/movie/watch-crimes-of-the-future-full-81592"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Crimes of the Future"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-crimes-of-the-future-full-81592" rel=&#34;nofollow&#34;
+                        title="Crimes of the Future">Crimes of the Future</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">107m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/c1/81/c1812a66e9a1b17314c7a18acc8c3afa/c1812a66e9a1b17314c7a18acc8c3afa.jpg"
+             class="film-poster-img lazyload" title="Spiderhead"
+             alt="watch-Spiderhead">
+        <a href="/movie/watch-spiderhead-full-81595"
+           class="film-poster-ahref flw-item-tip" 
+           title="Spiderhead"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-spiderhead-full-81595" 
+                        title="Spiderhead">Spiderhead</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">107m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/cd/2a/cd2a074557614c85e775d797be01630e/cd2a074557614c85e775d797be01630e.jpg"
+             class="film-poster-img lazyload" title="The Bad Guys"
+             alt="watch-The Bad Guys">
+        <a href="/movie/watch-the-bad-guys-full-78364"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Bad Guys"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-bad-guys-full-78364" 
+                        title="The Bad Guys">The Bad Guys</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">100m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/43/6f/436ff82d2fecf88364ec3dbe9f18d59f/436ff82d2fecf88364ec3dbe9f18d59f.jpg"
+             class="film-poster-img lazyload" title="The Unbearable Weight of Massive Talent"
+             alt="watch-The Unbearable Weight of Massive Talent">
+        <a href="/movie/watch-the-unbearable-weight-of-massive-talent-full-78850"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Unbearable Weight of Massive Talent"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-unbearable-weight-of-massive-talent-full-78850" 
+                        title="The Unbearable Weight of Massive Talent">The Unbearable Weight of Massive Talent</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">107m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/0e/ef/0eef27574e556ced99624f638c36558c/0eef27574e556ced99624f638c36558c.jpg"
+             class="film-poster-img lazyload" title="Beavis and Butt-Head Do the Universe"
+             alt="watch-Beavis and Butt-Head Do the Universe">
+        <a href="/movie/watch-beavis-and-butt-head-do-the-universe-full-83371"
+           class="film-poster-ahref flw-item-tip" 
+           title="Beavis and Butt-Head Do the Universe"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-beavis-and-butt-head-do-the-universe-full-83371" 
+                        title="Beavis and Butt-Head Do the Universe">Beavis and Butt-Head Do the Universe</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">86m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/bd/d3/bdd34eb241bf3d74098aaf29529a2f02/bdd34eb241bf3d74098aaf29529a2f02.jpg"
+             class="film-poster-img lazyload" title="Avengers: Infinity War"
+             alt="watch-Avengers: Infinity War">
+        <a href="/movie/watch-avengers-infinity-war-full-19851"
+           class="film-poster-ahref flw-item-tip" 
+           title="Avengers: Infinity War"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-avengers-infinity-war-full-19851" 
+                        title="Avengers: Infinity War">Avengers: Infinity War</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2018</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">149m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/fd/93/fd93f03729505c53f07f9680662c8f27/fd93f03729505c53f07f9680662c8f27.jpg"
+             class="film-poster-img lazyload" title="The Northman"
+             alt="watch-The Northman">
+        <a href="/movie/watch-the-northman-full-78847"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Northman"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-northman-full-78847" 
+                        title="The Northman">The Northman</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">137m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="trending-tv" class="tab-pane">
+                            <div class="block_area-content block_area-list film_list film_list-grid">
+                                <div class="film_list-wrap">
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/4a/f3/4af343c2a1179baad8c696ba2172d0e0/4af343c2a1179baad8c696ba2172d0e0.jpg"
+             class="film-poster-img lazyload" title="Baymax!"
+             alt="watch-Baymax!">
+        <a href="/tv/watch-baymax-full-83806"
+           class="film-poster-ahref flw-item-tip" 
+           title="Baymax!"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-baymax-full-83806" 
+                        title="Baymax!">Baymax!</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/be/11/be11bfe86cf3c6ddea792e2058daa810/be11bfe86cf3c6ddea792e2058daa810.jpg"
+             class="film-poster-img lazyload" title="Westworld"
+             alt="watch-Westworld">
+        <a href="/tv/watch-westworld-full-39390"
+           class="film-poster-ahref flw-item-tip" 
+           title="Westworld"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-westworld-full-39390" 
+                        title="Westworld">Westworld</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 1</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/b7/cd/b7cdcae779b9ae50ff9122109b6271b0/b7cdcae779b9ae50ff9122109b6271b0.jpg"
+             class="film-poster-img lazyload" title="Ms. Marvel"
+             alt="watch-Ms. Marvel">
+        <a href="/tv/watch-ms-marvel-full-78142"
+           class="film-poster-ahref flw-item-tip" 
+           title="Ms. Marvel"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-ms-marvel-full-78142" 
+                        title="Ms. Marvel">Ms. Marvel</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 4</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/77/5a/775a4fdf283f4e1fcfbb0a907d759fbf/775a4fdf283f4e1fcfbb0a907d759fbf.jpg"
+             class="film-poster-img lazyload" title="Money Heist: Korea - Joint Economic Area"
+             alt="watch-Money Heist: Korea - Joint Economic Area">
+        <a href="/tv/watch-money-heist-korea-joint-economic-area-full-78400"
+           class="film-poster-ahref flw-item-tip" 
+           title="Money Heist: Korea - Joint Economic Area"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-money-heist-korea-joint-economic-area-full-78400" 
+                        title="Money Heist: Korea - Joint Economic Area">Money Heist: Korea - Joint Economic Area</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/e7/aa/e7aa47e98854661e8a06a5cad9f7c92c/e7aa47e98854661e8a06a5cad9f7c92c.jpg"
+             class="film-poster-img lazyload" title="Man Vs Bee"
+             alt="watch-Man Vs Bee">
+        <a href="/tv/watch-man-vs-bee-full-81577"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Man Vs Bee"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-man-vs-bee-full-81577" rel=&#34;nofollow&#34;
+                        title="Man Vs Bee">Man Vs Bee</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 9</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/85/2d/852de117c2146b5ed32b7ad4e487ed18/852de117c2146b5ed32b7ad4e487ed18.jpg"
+             class="film-poster-img lazyload" title="Only Murders in the Building"
+             alt="watch-Only Murders in the Building">
+        <a href="/tv/watch-only-murders-in-the-building-full-71581"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Only Murders in the Building"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-only-murders-in-the-building-full-71581" rel=&#34;nofollow&#34;
+                        title="Only Murders in the Building">Only Murders in the Building</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/1b/38/1b38bad49c555d94ed6e308a3f597d5a/1b38bad49c555d94ed6e308a3f597d5a.jpg"
+             class="film-poster-img lazyload" title="Stranger Things"
+             alt="watch-Stranger Things">
+        <a href="/tv/watch-stranger-things-full-39444"
+           class="film-poster-ahref flw-item-tip" 
+           title="Stranger Things"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-stranger-things-full-39444" 
+                        title="Stranger Things">Stranger Things</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 7</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/b9/da/b9da6410617421f5c1c1f6140e5f841a/b9da6410617421f5c1c1f6140e5f841a.jpg"
+             class="film-poster-img lazyload" title="Obi-Wan Kenobi"
+             alt="watch-Obi-Wan Kenobi">
+        <a href="/tv/watch-obi-wan-kenobi-full-81289"
+           class="film-poster-ahref flw-item-tip" 
+           title="Obi-Wan Kenobi"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-obi-wan-kenobi-full-81289" 
+                        title="Obi-Wan Kenobi">Obi-Wan Kenobi</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d7/64/d76490dba9831502963013285425627e/d76490dba9831502963013285425627e.jpg"
+             class="film-poster-img lazyload" title="The Boys"
+             alt="watch-The Boys">
+        <a href="/tv/watch-the-boys-full-33895"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Boys"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-boys-full-33895" 
+                        title="The Boys">The Boys</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 3</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/65/9d/659dc5a57068ecdede39e07945818f11/659dc5a57068ecdede39e07945818f11.jpg"
+             class="film-poster-img lazyload" title="The Umbrella Academy"
+             alt="watch-The Umbrella Academy">
+        <a href="/tv/watch-the-umbrella-academy-full-38416"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Umbrella Academy"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-umbrella-academy-full-38416" 
+                        title="The Umbrella Academy">The Umbrella Academy</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 3</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 10</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/92/52/9252458dee6320a9852c65223bf6aa45/9252458dee6320a9852c65223bf6aa45.jpg"
+             class="film-poster-img lazyload" title="SPY x FAMILY"
+             alt="watch-SPY x FAMILY">
+        <a href="/tv/watch-spy-x-family-full-79048"
+           class="film-poster-ahref flw-item-tip" 
+           title="SPY x FAMILY"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-spy-x-family-full-79048" 
+                        title="SPY x FAMILY">SPY x FAMILY</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 12</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/75/e0/75e0bfae315594720f884d77f482e63f/75e0bfae315594720f884d77f482e63f.jpg"
+             class="film-poster-img lazyload" title="One Piece"
+             alt="watch-One Piece">
+        <a href="/tv/watch-one-piece-full-39514"
+           class="film-poster-ahref flw-item-tip" 
+           title="One Piece"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-one-piece-full-39514" 
+                        title="One Piece">One Piece</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 21</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 1021</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7b/3b/7b3be3f8a032c98b041ce79d36e47855/7b3be3f8a032c98b041ce79d36e47855.jpg"
+             class="film-poster-img lazyload" title="Superman &amp; Lois"
+             alt="watch-Superman &amp; Lois">
+        <a href="/tv/watch-superman-lois-full-68031"
+           class="film-poster-ahref flw-item-tip" 
+           title="Superman &amp; Lois"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-superman-lois-full-68031" 
+                        title="Superman &amp; Lois">Superman &amp; Lois</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 15</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7e/17/7e1771a7ee8df98035a264a502314c65/7e1771a7ee8df98035a264a502314c65.jpg"
+             class="film-poster-img lazyload" title="The Upshaws"
+             alt="watch-The Upshaws">
+        <a href="/tv/watch-the-upshaws-full-69816"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Upshaws"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-upshaws-full-69816" 
+                        title="The Upshaws">The Upshaws</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 8</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/00/f3/00f3cff0f4f09b6cffa5c6a59878b027/00f3cff0f4f09b6cffa5c6a59878b027.jpg"
+             class="film-poster-img lazyload" title="Money Heist"
+             alt="watch-Money Heist">
+        <a href="/tv/watch-money-heist-full-39409"
+           class="film-poster-ahref flw-item-tip" 
+           title="Money Heist"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-money-heist-full-39409" 
+                        title="Money Heist">Money Heist</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 5</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 10</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/88/22/8822b3a4f732a28db1d10002e6cecd23/8822b3a4f732a28db1d10002e6cecd23.jpg"
+             class="film-poster-img lazyload" title="Game of Thrones"
+             alt="watch-Game of Thrones">
+        <a href="/tv/watch-game-of-thrones-full-39539"
+           class="film-poster-ahref flw-item-tip" 
+           title="Game of Thrones"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-game-of-thrones-full-39539" 
+                        title="Game of Thrones">Game of Thrones</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 8</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/9e/9a/9e9ab1aec0ddb35bda8ad0b81ec45d99/9e9ab1aec0ddb35bda8ad0b81ec45d99.jpg"
+             class="film-poster-img lazyload" title="Extraordinary Attorney Woo"
+             alt="watch-Extraordinary Attorney Woo">
+        <a href="/tv/watch-extraordinary-attorney-woo-full-83917"
+           class="film-poster-ahref flw-item-tip" 
+           title="Extraordinary Attorney Woo"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-extraordinary-attorney-woo-full-83917" 
+                        title="Extraordinary Attorney Woo">Extraordinary Attorney Woo</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 1</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/5d/f1/5df18deafa3e36d604bfc830c39829d9/5df18deafa3e36d604bfc830c39829d9.jpg"
+             class="film-poster-img lazyload" title="The Summer I Turned Pretty"
+             alt="watch-The Summer I Turned Pretty">
+        <a href="/tv/watch-the-summer-i-turned-pretty-full-82873"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Summer I Turned Pretty"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-summer-i-turned-pretty-full-82873" 
+                        title="The Summer I Turned Pretty">The Summer I Turned Pretty</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 7</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/74/33/7433877983f95472258638786899af72/7433877983f95472258638786899af72.jpg"
+             class="film-poster-img lazyload" title="Boundless"
+             alt="watch-Boundless">
+        <a href="/tv/watch-boundless-full-83689"
+           class="film-poster-ahref flw-item-tip" 
+           title="Boundless"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-boundless-full-83689" 
+                        title="Boundless">Boundless</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7b/9f/7b9f0e3d8f33faa2a07f11a67d79b38b/7b9f0e3d8f33faa2a07f11a67d79b38b.jpg"
+             class="film-poster-img lazyload" title="The Old Man"
+             alt="watch-The Old Man">
+        <a href="/tv/watch-the-old-man-full-82906"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Old Man"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-old-man-full-82906" 
+                        title="The Old Man">The Old Man</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 3</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/25/31/2531030adbee7aaa79750f71c1f50f1e/2531030adbee7aaa79750f71c1f50f1e.jpg"
+             class="film-poster-img lazyload" title="Anna"
+             alt="watch-Anna">
+        <a href="/tv/watch-anna-full-83809"
+           class="film-poster-ahref flw-item-tip" 
+           title="Anna"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-anna-full-83809" 
+                        title="Anna">Anna</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/5f/9b/5f9b761b5295166059d7fff9a7880432/5f9b761b5295166059d7fff9a7880432.jpg"
+             class="film-poster-img lazyload" title="Moon Knight"
+             alt="watch-Moon Knight">
+        <a href="/tv/watch-moon-knight-full-52420"
+           class="film-poster-ahref flw-item-tip" 
+           title="Moon Knight"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-moon-knight-full-52420" 
+                        title="Moon Knight">Moon Knight</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d8/64/d8641f44a778516373bc11ed55e0a6c0/d8641f44a778516373bc11ed55e0a6c0.jpg"
+             class="film-poster-img lazyload" title="The Orville"
+             alt="watch-The Orville">
+        <a href="/tv/watch-the-orville-full-39474"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Orville"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-orville-full-39474" 
+                        title="The Orville">The Orville</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 3</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 5</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d3/28/d3284ae9361dd9e80e67df773b56c780/d3284ae9361dd9e80e67df773b56c780.jpg"
+             class="film-poster-img lazyload" title="Sherwood"
+             alt="watch-Sherwood">
+        <a href="/tv/watch-sherwood-full-82477"
+           class="film-poster-ahref flw-item-tip" 
+           title="Sherwood"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-sherwood-full-82477" 
+                        title="Sherwood">Sherwood</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <div style="text-align:center;margin-bottom: 20px;margin-top:20px;display:none;" id="gift-middle"></div>
+                <section class="block_area block_area_home section-id-02">
+                    <div class="block_area-header block_area-header-tabs">
+                        <div class="float-left bah-heading mr-4">
+                            <h2 class="cat-heading">Latest Movies</h2>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="block_area-content block_area-list film_list film_list-grid">
+                        <div class="film_list-wrap">
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/c3/cb/c3cbb50763055e3e3f981e95a84db7bf/c3cbb50763055e3e3f981e95a84db7bf.jpg"
+             class="film-poster-img lazyload" title="Endangered"
+             alt="watch-Endangered">
+        <a href="/movie/watch-endangered-full-83788"
+           class="film-poster-ahref flw-item-tip" 
+           title="Endangered"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-endangered-full-83788" 
+                        title="Endangered">Endangered</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">90m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/47/77/477779351b7158787f0c0759b53b3dc8/477779351b7158787f0c0759b53b3dc8.jpg"
+             class="film-poster-img lazyload" title="Blasted"
+             alt="watch-Blasted">
+        <a href="/movie/watch-blasted-full-83794"
+           class="film-poster-ahref flw-item-tip" 
+           title="Blasted"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-blasted-full-83794" 
+                        title="Blasted">Blasted</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">114m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/13/f4/13f40b8df99633bef66a260acd38166c/13f40b8df99633bef66a260acd38166c.jpg"
+             class="film-poster-img lazyload" title="#Unknown"
+             alt="watch-#Unknown">
+        <a href="/movie/watch-unknown-full-83770"
+           class="film-poster-ahref flw-item-tip" 
+           title="#Unknown"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-unknown-full-83770" 
+                        title="#Unknown">#Unknown</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">97m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/f9/54/f9543634c435eb1ba22b2d50682683d4/f9543634c435eb1ba22b2d50682683d4.jpg"
+             class="film-poster-img lazyload" title="Love You Anyway"
+             alt="watch-Love You Anyway">
+        <a href="/movie/watch-love-you-anyway-full-83764"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Love You Anyway"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-love-you-anyway-full-83764" rel=&#34;nofollow&#34;
+                        title="Love You Anyway">Love You Anyway</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">80m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/00/a5/00a5128bd1708bd287068b24e45d6f81/00a5128bd1708bd287068b24e45d6f81.jpg"
+             class="film-poster-img lazyload" title="Gaslight"
+             alt="watch-Gaslight">
+        <a href="/movie/watch-gaslight-full-83758"
+           class="film-poster-ahref flw-item-tip" 
+           title="Gaslight"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-gaslight-full-83758" 
+                        title="Gaslight">Gaslight</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">85m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">SD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ee/3f/ee3fb134ed58c461f8c4a948492e88a3/ee3fb134ed58c461f8c4a948492e88a3.jpg"
+             class="film-poster-img lazyload" title="Lightyear"
+             alt="watch-Lightyear">
+        <a href="/movie/watch-lightyear-full-82063"
+           class="film-poster-ahref flw-item-tip" 
+           title="Lightyear"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-lightyear-full-82063" 
+                        title="Lightyear">Lightyear</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">105m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/e7/62/e762716e7f82e8575ea0a68f41fbcbed/e762716e7f82e8575ea0a68f41fbcbed.jpg"
+             class="film-poster-img lazyload" title="Losing Addison"
+             alt="watch-Losing Addison">
+        <a href="/movie/watch-losing-addison-full-83707"
+           class="film-poster-ahref flw-item-tip" 
+           title="Losing Addison"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-losing-addison-full-83707" 
+                        title="Losing Addison">Losing Addison</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">90m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/b4/dc/b4dceeccb4ce272a2e015b9c08295bba/b4dceeccb4ce272a2e015b9c08295bba.jpg"
+             class="film-poster-img lazyload" title="Green Ghost and the Masters of the Stone"
+             alt="watch-Green Ghost and the Masters of the Stone">
+        <a href="/movie/watch-green-ghost-and-the-masters-of-the-stone-full-83704"
+           class="film-poster-ahref flw-item-tip" 
+           title="Green Ghost and the Masters of the Stone"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-green-ghost-and-the-masters-of-the-stone-full-83704" 
+                        title="Green Ghost and the Masters of the Stone">Green Ghost and the Masters of the Stone</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">81m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/85/63/85630eb005ac2af4ea6d43190ef9e58c/85630eb005ac2af4ea6d43190ef9e58c.jpg"
+             class="film-poster-img lazyload" title="Montana Story"
+             alt="watch-Montana Story">
+        <a href="/movie/watch-montana-story-full-81454"
+           class="film-poster-ahref flw-item-tip" 
+           title="Montana Story"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-montana-story-full-81454" 
+                        title="Montana Story">Montana Story</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">113m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/fd/38/fd38610a62023577a08d9040d3cfecee/fd38610a62023577a08d9040d3cfecee.jpg"
+             class="film-poster-img lazyload" title="Family Camp"
+             alt="watch-Family Camp">
+        <a href="/movie/watch-family-camp-full-81022"
+           class="film-poster-ahref flw-item-tip" 
+           title="Family Camp"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-family-camp-full-81022" 
+                        title="Family Camp">Family Camp</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">111m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/8b/28/8b28019739d9f7827c3d6bafc14eb685/8b28019739d9f7827c3d6bafc14eb685.jpg"
+             class="film-poster-img lazyload" title="Men"
+             alt="watch-Men">
+        <a href="/movie/watch-men-full-81034"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Men"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-men-full-81034" rel=&#34;nofollow&#34;
+                        title="Men">Men</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">100m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/61/69/6169459fc15fea173fc7a1c1df58f264/6169459fc15fea173fc7a1c1df58f264.jpg"
+             class="film-poster-img lazyload" title="Would It Kill You to Laugh?"
+             alt="watch-Would It Kill You to Laugh?">
+        <a href="/movie/watch-would-it-kill-you-to-laugh-full-83482"
+           class="film-poster-ahref flw-item-tip" 
+           title="Would It Kill You to Laugh?"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-would-it-kill-you-to-laugh-full-83482" 
+                        title="Would It Kill You to Laugh?">Would It Kill You to Laugh?</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">53m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/8b/65/8b65eb724a29e8d4cc93b23229cdb63b/8b65eb724a29e8d4cc93b23229cdb63b.jpg"
+             class="film-poster-img lazyload" title="Trevor: The Musical"
+             alt="watch-Trevor: The Musical">
+        <a href="/movie/watch-trevor-the-musical-full-83485"
+           class="film-poster-ahref flw-item-tip" 
+           title="Trevor: The Musical"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-trevor-the-musical-full-83485" 
+                        title="Trevor: The Musical">Trevor: The Musical</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">113m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/27/b8/27b8a50a3580f2abb03e45f81e23fccc/27b8a50a3580f2abb03e45f81e23fccc.jpg"
+             class="film-poster-img lazyload" title="Rise"
+             alt="watch-Rise">
+        <a href="/movie/watch-rise-full-83476"
+           class="film-poster-ahref flw-item-tip" 
+           title="Rise"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-rise-full-83476" 
+                        title="Rise">Rise</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">111m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d4/76/d476916faecd4e33c26992b788252364/d476916faecd4e33c26992b788252364.jpg"
+             class="film-poster-img lazyload" title="Glamour Girls"
+             alt="watch-Glamour Girls">
+        <a href="/movie/watch-glamour-girls-full-83479"
+           class="film-poster-ahref flw-item-tip" 
+           title="Glamour Girls"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-glamour-girls-full-83479" 
+                        title="Glamour Girls">Glamour Girls</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">125m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/0e/ef/0eef27574e556ced99624f638c36558c/0eef27574e556ced99624f638c36558c.jpg"
+             class="film-poster-img lazyload" title="Beavis and Butt-Head Do the Universe"
+             alt="watch-Beavis and Butt-Head Do the Universe">
+        <a href="/movie/watch-beavis-and-butt-head-do-the-universe-full-83371"
+           class="film-poster-ahref flw-item-tip" 
+           title="Beavis and Butt-Head Do the Universe"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-beavis-and-butt-head-do-the-universe-full-83371" 
+                        title="Beavis and Butt-Head Do the Universe">Beavis and Butt-Head Do the Universe</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">86m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/42/55/4255033a5670cd720ef863034c4e4448/4255033a5670cd720ef863034c4e4448.jpg"
+             class="film-poster-img lazyload" title="Press Play"
+             alt="watch-Press Play">
+        <a href="/movie/watch-press-play-full-83374"
+           class="film-poster-ahref flw-item-tip" 
+           title="Press Play"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-press-play-full-83374" 
+                        title="Press Play">Press Play</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">85m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d8/c6/d8c645dabc915548dc07b6a2a2f6912c/d8c645dabc915548dc07b6a2a2f6912c.jpg"
+             class="film-poster-img lazyload" title="A Picture Perfect Wedding"
+             alt="watch-A Picture Perfect Wedding">
+        <a href="/movie/watch-a-picture-perfect-wedding-full-83368"
+           class="film-poster-ahref flw-item-tip" 
+           title="A Picture Perfect Wedding"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-a-picture-perfect-wedding-full-83368" 
+                        title="A Picture Perfect Wedding">A Picture Perfect Wedding</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2021</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">85m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ba/a7/baa71f8e91ecc57c1e958e364ba0e702/baa71f8e91ecc57c1e958e364ba0e702.jpg"
+             class="film-poster-img lazyload" title="Love &amp; Gelato"
+             alt="watch-Love &amp; Gelato">
+        <a href="/movie/watch-love-gelato-full-83254"
+           class="film-poster-ahref flw-item-tip" 
+           title="Love &amp; Gelato"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-love-gelato-full-83254" 
+                        title="Love &amp; Gelato">Love &amp; Gelato</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">111m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/9f/01/9f011cc99eb0fce37270dd3ab2d6ac9f/9f011cc99eb0fce37270dd3ab2d6ac9f.jpg"
+             class="film-poster-img lazyload" title="Paul Dood’s Deadly Lunch Break"
+             alt="watch-Paul Dood’s Deadly Lunch Break">
+        <a href="/movie/watch-paul-doods-deadly-lunch-break-full-83260"
+           class="film-poster-ahref flw-item-tip" 
+           title="Paul Dood’s Deadly Lunch Break"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-paul-doods-deadly-lunch-break-full-83260" 
+                        title="Paul Dood’s Deadly Lunch Break">Paul Dood’s Deadly Lunch Break</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2021</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">110m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/31/0d/310d5788bfc489e7a5953e97885a58b2/310d5788bfc489e7a5953e97885a58b2.jpg"
+             class="film-poster-img lazyload" title="Gatlopp: Hell of a Game"
+             alt="watch-Gatlopp: Hell of a Game">
+        <a href="/movie/watch-gatlopp-hell-of-a-game-full-83263"
+           class="film-poster-ahref flw-item-tip" 
+           title="Gatlopp: Hell of a Game"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-gatlopp-hell-of-a-game-full-83263" 
+                        title="Gatlopp: Hell of a Game">Gatlopp: Hell of a Game</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">80m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/1c/a8/1ca8ed0289a620d343ffc3b47955ad5a/1ca8ed0289a620d343ffc3b47955ad5a.jpg"
+             class="film-poster-img lazyload" title="Learn to Swim"
+             alt="watch-Learn to Swim">
+        <a href="/movie/watch-learn-to-swim-full-83074"
+           class="film-poster-ahref flw-item-tip" 
+           title="Learn to Swim"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-learn-to-swim-full-83074" 
+                        title="Learn to Swim">Learn to Swim</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2021</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">90m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/8b/ad/8bade70fc9306eeae2bf29b60648e5ef/8bade70fc9306eeae2bf29b60648e5ef.jpg"
+             class="film-poster-img lazyload" title="Watcher"
+             alt="watch-Watcher">
+        <a href="/movie/watch-watcher-full-82498"
+           class="film-poster-ahref flw-item-tip" 
+           title="Watcher"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-watcher-full-82498" 
+                        title="Watcher">Watcher</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">91m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/df/51/df5185f009c0d5c2c075fa5456701381/df5185f009c0d5c2c075fa5456701381.jpg"
+             class="film-poster-img lazyload" title="Crimes of the Future"
+             alt="watch-Crimes of the Future">
+        <a href="/movie/watch-crimes-of-the-future-full-81592"
+           class="film-poster-ahref flw-item-tip" 
+           title="Crimes of the Future"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-crimes-of-the-future-full-81592" 
+                        title="Crimes of the Future">Crimes of the Future</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">2022</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item fdi-duration">107m</span>
+ 
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </section>
+ 
+                <section class="block_area block_area_home section-id-02">
+                    <div class="block_area-header block_area-header-tabs">
+                        <div class="float-left bah-heading mr-4">
+                            <h2 class="cat-heading">Latest TV Shows</h2>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="block_area-content block_area-list film_list film_list-grid">
+                        <div class="film_list-wrap">
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/e4/82/e4825d53072441905e1257c706f4c9c7/e4825d53072441905e1257c706f4c9c7.jpg"
+             class="film-poster-img lazyload" title="The Flash"
+             alt="watch-The Flash">
+        <a href="/tv/watch-the-flash-full-39535"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Flash"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-flash-full-39535" 
+                        title="The Flash">The Flash</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 8</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 20</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/12/b4/12b402ddb082ee51d872790d561916c7/12b402ddb082ee51d872790d561916c7.jpg"
+             class="film-poster-img lazyload" title="Players"
+             alt="watch-Players">
+        <a href="/tv/watch-players-full-82741"
+           class="film-poster-ahref flw-item-tip" 
+           title="Players"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-players-full-82741" 
+                        title="Players">Players</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/88/33/8833a417061e960132ae49a89d6ee432/8833a417061e960132ae49a89d6ee432.jpg"
+             class="film-poster-img lazyload" title="Star Trek: Strange New Worlds"
+             alt="watch-Star Trek: Strange New Worlds">
+        <a href="/tv/watch-star-trek-strange-new-worlds-full-79759"
+           class="film-poster-ahref flw-item-tip" 
+           title="Star Trek: Strange New Worlds"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-star-trek-strange-new-worlds-full-79759" 
+                        title="Star Trek: Strange New Worlds">Star Trek: Strange New Worlds</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 9</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d8/64/d8641f44a778516373bc11ed55e0a6c0/d8641f44a778516373bc11ed55e0a6c0.jpg"
+             class="film-poster-img lazyload" title="The Orville"
+             alt="watch-The Orville">
+        <a href="/tv/watch-the-orville-full-39474"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="The Orville"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-orville-full-39474" rel=&#34;nofollow&#34;
+                        title="The Orville">The Orville</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 3</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 5</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/97/d2/97d2cd8013eb7f4b5e883091df055868/97d2cd8013eb7f4b5e883091df055868.jpg"
+             class="film-poster-img lazyload" title="Tom Swift"
+             alt="watch-Tom Swift">
+        <a href="/tv/watch-tom-swift-full-81604"
+           class="film-poster-ahref flw-item-tip" 
+           title="Tom Swift"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-tom-swift-full-81604" 
+                        title="Tom Swift">Tom Swift</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 5</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/a2/31/a231a24104b63885a85ff8181320956e/a231a24104b63885a85ff8181320956e.jpg"
+             class="film-poster-img lazyload" title="My Feet Are Killing Me"
+             alt="watch-My Feet Are Killing Me">
+        <a href="/tv/watch-my-feet-are-killing-me-full-59153"
+           class="film-poster-ahref flw-item-tip" 
+           title="My Feet Are Killing Me"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-my-feet-are-killing-me-full-59153" 
+                        title="My Feet Are Killing Me">My Feet Are Killing Me</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 8</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ec/62/ec621118fcb53036d56c02ee471a6198/ec621118fcb53036d56c02ee471a6198.jpg"
+             class="film-poster-img lazyload" title="MasterChef Australia"
+             alt="watch-MasterChef Australia">
+        <a href="/tv/watch-masterchef-australia-full-39139"
+           class="film-poster-ahref flw-item-tip" 
+           title="MasterChef Australia"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-masterchef-australia-full-39139" 
+                        title="MasterChef Australia">MasterChef Australia</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 14</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 53</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d3/64/d364b7f25f973bed96faec3a577ee8b1/d364b7f25f973bed96faec3a577ee8b1.jpg"
+             class="film-poster-img lazyload" title="Hiding in Plain Sight: Youth Mental Illness"
+             alt="watch-Hiding in Plain Sight: Youth Mental Illness">
+        <a href="/tv/watch-hiding-in-plain-sight-youth-mental-illness-full-83785"
+           class="film-poster-ahref flw-item-tip" 
+           title="Hiding in Plain Sight: Youth Mental Illness"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-hiding-in-plain-sight-youth-mental-illness-full-83785" 
+                        title="Hiding in Plain Sight: Youth Mental Illness">Hiding in Plain Sight: Youth Mental Illness</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/4a/72/4a729f249e9979bc893bf581fa347820/4a729f249e9979bc893bf581fa347820.jpg"
+             class="film-poster-img lazyload" title="Dancing with Myself"
+             alt="watch-Dancing with Myself">
+        <a href="/tv/watch-dancing-with-myself-full-81601"
+           class="film-poster-ahref flw-item-tip" 
+           title="Dancing with Myself"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-dancing-with-myself-full-81601" 
+                        title="Dancing with Myself">Dancing with Myself</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 5</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d3/28/d3284ae9361dd9e80e67df773b56c780/d3284ae9361dd9e80e67df773b56c780.jpg"
+             class="film-poster-img lazyload" title="Sherwood"
+             alt="watch-Sherwood">
+        <a href="/tv/watch-sherwood-full-82477"
+           class="film-poster-ahref flw-item-tip" 
+           title="Sherwood"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-sherwood-full-82477" 
+                        title="Sherwood">Sherwood</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7b/3b/7b3be3f8a032c98b041ce79d36e47855/7b3be3f8a032c98b041ce79d36e47855.jpg"
+             class="film-poster-img lazyload" title="Superman &amp; Lois"
+             alt="watch-Superman &amp; Lois">
+        <a href="/tv/watch-superman-lois-full-68031"
+           class="film-poster-ahref flw-item-tip" 
+           title="Superman &amp; Lois"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-superman-lois-full-68031" 
+                        title="Superman &amp; Lois">Superman &amp; Lois</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 15</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/b7/cd/b7cdcae779b9ae50ff9122109b6271b0/b7cdcae779b9ae50ff9122109b6271b0.jpg"
+             class="film-poster-img lazyload" title="Ms. Marvel"
+             alt="watch-Ms. Marvel">
+        <a href="/tv/watch-ms-marvel-full-78142"
+           class="film-poster-ahref flw-item-tip" 
+           title="Ms. Marvel"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-ms-marvel-full-78142" 
+                        title="Ms. Marvel">Ms. Marvel</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 4</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/85/2d/852de117c2146b5ed32b7ad4e487ed18/852de117c2146b5ed32b7ad4e487ed18.jpg"
+             class="film-poster-img lazyload" title="Only Murders in the Building"
+             alt="watch-Only Murders in the Building">
+        <a href="/tv/watch-only-murders-in-the-building-full-71581"
+           class="film-poster-ahref flw-item-tip" 
+           title="Only Murders in the Building"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-only-murders-in-the-building-full-71581" 
+                        title="Only Murders in the Building">Only Murders in the Building</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/c0/49/c049bd56deb83c74e7d50e59296a78f4/c049bd56deb83c74e7d50e59296a78f4.jpg"
+             class="film-poster-img lazyload" title="Roswell, New Mexico"
+             alt="watch-Roswell, New Mexico">
+        <a href="/tv/watch-roswell-new-mexico-full-39431"
+           class="film-poster-ahref flw-item-tip" 
+           title="Roswell, New Mexico"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-roswell-new-mexico-full-39431" 
+                        title="Roswell, New Mexico">Roswell, New Mexico</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 4</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/eb/11/eb112f100272061d6256006985598e05/eb112f100272061d6256006985598e05.jpg"
+             class="film-poster-img lazyload" title="Tyler Perry&#39;s Sistas"
+             alt="watch-Tyler Perry&#39;s Sistas">
+        <a href="/tv/watch-tyler-perrys-sistas-full-60496"
+           class="film-poster-ahref flw-item-tip" 
+           title="Tyler Perry&#39;s Sistas"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-tyler-perrys-sistas-full-60496" 
+                        title="Tyler Perry&#39;s Sistas">Tyler Perry&#39;s Sistas</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 15</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ca/9c/ca9c499c90ce4e75feafbb3fd6c895c4/ca9c499c90ce4e75feafbb3fd6c895c4.jpg"
+             class="film-poster-img lazyload" title="Mind Over Murder"
+             alt="watch-Mind Over Murder">
+        <a href="/tv/watch-mind-over-murder-full-83077"
+           class="film-poster-ahref flw-item-tip" 
+           title="Mind Over Murder"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-mind-over-murder-full-83077" 
+                        title="Mind Over Murder">Mind Over Murder</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/b6/2c/b62c679989d4ba9ac02eb3e2948a1735/b62c679989d4ba9ac02eb3e2948a1735.jpg"
+             class="film-poster-img lazyload" title="Long Lost Family"
+             alt="watch-Long Lost Family">
+        <a href="/tv/watch-long-lost-family-full-34019"
+           class="film-poster-ahref flw-item-tip" 
+           title="Long Lost Family"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-long-lost-family-full-34019" 
+                        title="Long Lost Family">Long Lost Family</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 12</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 6</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/22/26/22269904039565144b29b2e5b1056407/22269904039565144b29b2e5b1056407.jpg"
+             class="film-poster-img lazyload" title="Irma Vep"
+             alt="watch-Irma Vep">
+        <a href="/tv/watch-irma-vep-full-81895"
+           class="film-poster-ahref flw-item-tip" 
+           title="Irma Vep"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-irma-vep-full-81895" 
+                        title="Irma Vep">Irma Vep</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 4</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/92/ca/92ca812fd6ecaf78fafb0ab1905f887a/92ca812fd6ecaf78fafb0ab1905f887a.jpg"
+             class="film-poster-img lazyload" title="Birdgirl"
+             alt="watch-Birdgirl">
+        <a href="/tv/watch-birdgirl-full-69296"
+           class="film-poster-ahref flw-item-tip" 
+           title="Birdgirl"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-birdgirl-full-69296" 
+                        title="Birdgirl">Birdgirl</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 2</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 3</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/ec/17/ec172a65b98af53095ce39b8aa737326/ec172a65b98af53095ce39b8aa737326.jpg"
+             class="film-poster-img lazyload" title="McDonald &amp; Dodds"
+             alt="watch-McDonald &amp; Dodds">
+        <a href="/tv/watch-mcdonald-dodds-full-71212"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="McDonald &amp; Dodds"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-mcdonald-dodds-full-71212" rel=&#34;nofollow&#34;
+                        title="McDonald &amp; Dodds">McDonald &amp; Dodds</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 3</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 2</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/f7/1a/f71ac77ebced1fca561d80379f59a0c4/f71ac77ebced1fca561d80379f59a0c4.jpg"
+             class="film-poster-img lazyload" title="The Ghost and Molly McGee"
+             alt="watch-The Ghost and Molly McGee">
+        <a href="/tv/watch-the-ghost-and-molly-mcgee-full-72763"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Ghost and Molly McGee"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-ghost-and-molly-mcgee-full-72763" 
+                        title="The Ghost and Molly McGee">The Ghost and Molly McGee</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 36</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/6e/d9/6ed99cdc1888777dd5be6e5d11e52770/6ed99cdc1888777dd5be6e5d11e52770.jpg"
+             class="film-poster-img lazyload" title="Last Week Tonight with John Oliver"
+             alt="watch-Last Week Tonight with John Oliver">
+        <a href="/tv/watch-last-week-tonight-with-john-oliver-full-39347"
+           class="film-poster-ahref flw-item-tip" 
+           title="Last Week Tonight with John Oliver"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-last-week-tonight-with-john-oliver-full-39347" 
+                        title="Last Week Tonight with John Oliver">Last Week Tonight with John Oliver</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 9</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 16</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/be/11/be11bfe86cf3c6ddea792e2058daa810/be11bfe86cf3c6ddea792e2058daa810.jpg"
+             class="film-poster-img lazyload" title="Westworld"
+             alt="watch-Westworld">
+        <a href="/tv/watch-westworld-full-39390"
+           class="film-poster-ahref flw-item-tip" 
+           title="Westworld"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-westworld-full-39390" 
+                        title="Westworld">Westworld</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 4</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 1</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7b/9f/7b9f0e3d8f33faa2a07f11a67d79b38b/7b9f0e3d8f33faa2a07f11a67d79b38b.jpg"
+             class="film-poster-img lazyload" title="The Old Man"
+             alt="watch-The Old Man">
+        <a href="/tv/watch-the-old-man-full-82906"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Old Man"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-the-old-man-full-82906" 
+                        title="The Old Man">The Old Man</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+ 
+                    <span class="fdi-item">SS 1</span>
+                    <span class="dot"></span>
+                    <span class="fdi-item">EPS 3</span>
+ 
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </section>
+                <section class="block_area block_area_home section-id-02">
+                    <div class="block_area-header block_area-header-tabs">
+                        <div class="float-left bah-heading mr-4">
+                            <h2 class="cat-heading">Coming Soon</h2>
+                        </div>
+                        <div class="float-right viewmore"><a class="btn" href="/coming-soon">View more<i
+                                        class="fa fa-chevron-circle-right ml-3"></i></a></div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="block_area-content block_area-list film_list film_list-grid">
+                        <div class="film_list-wrap">
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/d1/25/d12518ca1bdce5c0629de62dffc97dd4/d12518ca1bdce5c0629de62dffc97dd4.jpg"
+             class="film-poster-img lazyload" title="The Marvels"
+             alt="watch-The Marvels">
+        <a href="/movie/watch-captain-marvel-2-full-66673"
+           class="film-poster-ahref flw-item-tip" 
+           title="The Marvels"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-captain-marvel-2-full-66673" 
+                        title="The Marvels">The Marvels</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2023</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/88/4b/884bfc51987a443b9e0361e091cdbd3d/884bfc51987a443b9e0361e091cdbd3d.jpg"
+             class="film-poster-img lazyload" title="Gotham Knights"
+             alt="watch-Gotham Knights">
+        <a href="/tv/watch-gotham-knights-full-81574"
+           class="film-poster-ahref flw-item-tip" 
+           title="Gotham Knights"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-gotham-knights-full-81574" 
+                        title="Gotham Knights">Gotham Knights</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2023</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/97/6a/976afa279423d8f7c7b37302f4cabc27/976afa279423d8f7c7b37302f4cabc27.jpg"
+             class="film-poster-img lazyload" title="Mavka: The Forest Song"
+             alt="watch-Mavka: The Forest Song">
+        <a href="/movie/watch-mavka-the-forest-song-full-83248"
+           class="film-poster-ahref flw-item-tip" 
+           title="Mavka: The Forest Song"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-mavka-the-forest-song-full-83248" 
+                        title="Mavka: The Forest Song">Mavka: The Forest Song</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/29/b1/29b17ce0e078bb0a9295577cf2be4658/29b17ce0e078bb0a9295577cf2be4658.jpg"
+             class="film-poster-img lazyload" title="Avatar: The Way of Water"
+             alt="watch-Avatar: The Way of Water">
+        <a href="/movie/watch-avatar-the-way-of-water-full-79936"
+           class="film-poster-ahref flw-item-tip" 
+           title="Avatar: The Way of Water"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-avatar-the-way-of-water-full-79936" 
+                        title="Avatar: The Way of Water">Avatar: The Way of Water</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/3d/e1/3de13055eac77c41d323479dc7f54e83/3de13055eac77c41d323479dc7f54e83.jpg"
+             class="film-poster-img lazyload" title="Willow"
+             alt="watch-Willow">
+        <a href="/tv/watch-willow-full-81505"
+           class="film-poster-ahref flw-item-tip" 
+           title="Willow"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-willow-full-81505" 
+                        title="Willow">Willow</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/5a/22/5a22a677a3d4e3a3945160923798796b/5a22a677a3d4e3a3945160923798796b.jpg"
+             class="film-poster-img lazyload" title="Black Adam"
+             alt="watch-Black Adam">
+        <a href="/movie/watch-black-adam-full-82087"
+           class="film-poster-ahref flw-item-tip" 
+           title="Black Adam"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-black-adam-full-82087" 
+                        title="Black Adam">Black Adam</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/44/a0/44a071d59a52fc4addc2d7208fe9242b/44a071d59a52fc4addc2d7208fe9242b.jpg"
+             class="film-poster-img lazyload" title="Spider-Man: Into the Spider-Verse 2"
+             alt="watch-Spider-Man: Into the Spider-Verse 2">
+        <a href="/movie/watch-spider-man-into-the-spider-verse-sequel-full-66674"
+           class="film-poster-ahref flw-item-tip" 
+           title="Spider-Man: Into the Spider-Verse 2"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-spider-man-into-the-spider-verse-sequel-full-66674" 
+                        title="Spider-Man: Into the Spider-Verse 2">Spider-Man: Into the Spider-Verse 2</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/37/fb/37fb34f506e29b74b9decdd3c220a75e/37fb34f506e29b74b9decdd3c220a75e.jpg"
+             class="film-poster-img lazyload" title="Three Thousand Years of Longing"
+             alt="watch-Three Thousand Years of Longing">
+        <a href="/movie/watch-three-thousand-years-of-longing-full-81580"
+           class="film-poster-ahref flw-item-tip" 
+           title="Three Thousand Years of Longing"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-three-thousand-years-of-longing-full-81580" 
+                        title="Three Thousand Years of Longing">Three Thousand Years of Longing</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7a/f9/7af97763ce6297d55113f23b2776a334/7af97763ce6297d55113f23b2776a334.jpg"
+             class="film-poster-img lazyload" title="She-Hulk: Attorney at Law"
+             alt="watch-She-Hulk: Attorney at Law">
+        <a href="/tv/watch-she-hulk-attorney-at-law-full-81046"
+           class="film-poster-ahref flw-item-tip" 
+           title="She-Hulk: Attorney at Law"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-she-hulk-attorney-at-law-full-81046" 
+                        title="She-Hulk: Attorney at Law">She-Hulk: Attorney at Law</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/9e/78/9e787d5c33d52c0eba974b5636db9994/9e787d5c33d52c0eba974b5636db9994.jpg"
+             class="film-poster-img lazyload" title="Prey"
+             alt="watch-Prey">
+        <a href="/movie/watch-prey-full-83047"
+           class="film-poster-ahref flw-item-tip" 
+           title="Prey"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-prey-full-83047" 
+                        title="Prey">Prey</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/c3/43/c3434d30e52252cb0a9a6f15329f22e0/c3434d30e52252cb0a9a6f15329f22e0.jpg"
+             class="film-poster-img lazyload" title="Purple Hearts"
+             alt="watch-Purple Hearts">
+        <a href="/movie/watch-purple-hearts-full-83245"
+           class="film-poster-ahref flw-item-tip" 
+           title="Purple Hearts"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-purple-hearts-full-83245" 
+                        title="Purple Hearts">Purple Hearts</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/01/9d/019d4e2e333d60078ab6ace4df982dbe/019d4e2e333d60078ab6ace4df982dbe.jpg"
+             class="film-poster-img lazyload" title="Kung Fu Panda: The Dragon Knight"
+             alt="watch-Kung Fu Panda: The Dragon Knight">
+        <a href="/tv/watch-kung-fu-panda-the-dragon-knight-full-83056"
+           class="film-poster-ahref flw-item-tip" 
+           title="Kung Fu Panda: The Dragon Knight"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-kung-fu-panda-the-dragon-knight-full-83056" 
+                        title="Kung Fu Panda: The Dragon Knight">Kung Fu Panda: The Dragon Knight</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/c4/a5/c4a5c2a8c295965bd563b0b7a9fff020/c4a5c2a8c295965bd563b0b7a9fff020.jpg"
+             class="film-poster-img lazyload" title="Black Bird"
+             alt="watch-Black Bird">
+        <a href="/tv/watch-black-bird-full-83050"
+           class="film-poster-ahref flw-item-tip" 
+           title="Black Bird"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-black-bird-full-83050" 
+                        title="Black Bird">Black Bird</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7a/14/7a14548d7a83122e2c5153d37ec87f7c/7a14548d7a83122e2c5153d37ec87f7c.jpg"
+             class="film-poster-img lazyload" title="Boo, Bitch"
+             alt="watch-Boo, Bitch">
+        <a href="/tv/watch-boo-bitch-full-82615"
+           class="film-poster-ahref flw-item-tip" 
+           title="Boo, Bitch"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-boo-bitch-full-82615" 
+                        title="Boo, Bitch">Boo, Bitch</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/86/5f/865f826f3730f83eb20c5999c1ef27b9/865f826f3730f83eb20c5999c1ef27b9.jpg"
+             class="film-poster-img lazyload" title="Thor: Love and Thunder"
+             alt="watch-Thor: Love and Thunder">
+        <a href="/movie/watch-thor-love-and-thunder-full-66670"
+           class="film-poster-ahref flw-item-tip" 
+           title="Thor: Love and Thunder"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-thor-love-and-thunder-full-66670" 
+                        title="Thor: Love and Thunder">Thor: Love and Thunder</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/37/e3/37e3293e51522cb8c1abc97258153d47/37e3293e51522cb8c1abc97258153d47.jpg"
+             class="film-poster-img lazyload" title="Pirate Gold of Adak Island"
+             alt="watch-Pirate Gold of Adak Island">
+        <a href="/tv/watch-pirate-gold-of-adak-island-full-83839"
+           class="film-poster-ahref flw-item-tip" 
+           title="Pirate Gold of Adak Island"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-pirate-gold-of-adak-island-full-83839" 
+                        title="Pirate Gold of Adak Island">Pirate Gold of Adak Island</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/bc/38/bc3860936c14584de2d49feba061a82b/bc3860936c14584de2d49feba061a82b.jpg"
+             class="film-poster-img lazyload" title="Paul Virzi: Nocturnal Admissions"
+             alt="watch-Paul Virzi: Nocturnal Admissions">
+        <a href="/movie/watch-paul-virzi-nocturnal-admissions-full-83497"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="Paul Virzi: Nocturnal Admissions"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-paul-virzi-nocturnal-admissions-full-83497" rel=&#34;nofollow&#34;
+                        title="Paul Virzi: Nocturnal Admissions">Paul Virzi: Nocturnal Admissions</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/17/c5/17c5082bf7ee2d0c9240d4d0a4056acf/17c5082bf7ee2d0c9240d4d0a4056acf.jpg"
+             class="film-poster-img lazyload" title="The Sea Beast"
+             alt="watch-The Sea Beast">
+        <a href="/movie/watch-the-sea-beast-full-82276"
+           class="film-poster-ahref flw-item-tip" rel=&#34;nofollow&#34;
+           title="The Sea Beast"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-the-sea-beast-full-82276" rel=&#34;nofollow&#34;
+                        title="The Sea Beast">The Sea Beast</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/cb/d5/cbd59d35ccf6812ef5d31752b919e1a6/cbd59d35ccf6812ef5d31752b919e1a6.jpg"
+             class="film-poster-img lazyload" title="My Name Is Leon"
+             alt="watch-My Name Is Leon">
+        <a href="/movie/watch-my-name-is-leon-full-82753"
+           class="film-poster-ahref flw-item-tip" 
+           title="My Name Is Leon"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-my-name-is-leon-full-82753" 
+                        title="My Name Is Leon">My Name Is Leon</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/4b/08/4b08e964cd1424d14b5e04911f856240/4b08e964cd1424d14b5e04911f856240.jpg"
+             class="film-poster-img lazyload" title="Richard Hammond&#39;s Crazy Contraptions"
+             alt="watch-Richard Hammond&#39;s Crazy Contraptions">
+        <a href="/tv/watch-richard-hammonds-crazy-contraptions-full-80779"
+           class="film-poster-ahref flw-item-tip" 
+           title="Richard Hammond&#39;s Crazy Contraptions"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-richard-hammonds-crazy-contraptions-full-80779" 
+                        title="Richard Hammond&#39;s Crazy Contraptions">Richard Hammond&#39;s Crazy Contraptions</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/25/ac/25ac13918e72a909abd94a8f97858598/25ac13918e72a909abd94a8f97858598.jpg"
+             class="film-poster-img lazyload" title="Czech It Out!"
+             alt="watch-Czech It Out!">
+        <a href="/tv/watch-czech-it-out-full-79315"
+           class="film-poster-ahref flw-item-tip" 
+           title="Czech It Out!"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-czech-it-out-full-79315" 
+                        title="Czech It Out!">Czech It Out!</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/28/74/28747068b866de55201be0157ebfa351/28747068b866de55201be0157ebfa351.jpg"
+             class="film-poster-img lazyload" title="Amsterdam"
+             alt="watch-Amsterdam">
+        <a href="/tv/watch-amsterdam-full-82153"
+           class="film-poster-ahref flw-item-tip" 
+           title="Amsterdam"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-amsterdam-full-82153" 
+                        title="Amsterdam">Amsterdam</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/7a/2f/7a2f114ae2f7e5ad3c8888fab8821deb/7a2f114ae2f7e5ad3c8888fab8821deb.jpg"
+             class="film-poster-img lazyload" title="Something Bit Me!"
+             alt="watch-Something Bit Me!">
+        <a href="/tv/watch-something-bit-me-full-81142"
+           class="film-poster-ahref flw-item-tip" 
+           title="Something Bit Me!"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/tv/watch-something-bit-me-full-81142" 
+                        title="Something Bit Me!">Something Bit Me!</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">TV</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+ 
+<div class="flw-item">
+    <div class="film-poster">
+ 
+            <div class="pick film-poster-quality">HD</div>
+ 
+        <img data-src="https://img.hdtoday.cc/xxrz/250x400/520/cb/2d/cb2de6d98821723880d86330846d3b69/cb2de6d98821723880d86330846d3b69.jpg"
+             class="film-poster-img lazyload" title="Ms. Pat: Y&#39;all Wanna Hear Something Crazy?"
+             alt="watch-Ms. Pat: Y&#39;all Wanna Hear Something Crazy?">
+        <a href="/movie/watch-ms-pat-yall-wanna-hear-something-crazy-full-81265"
+           class="film-poster-ahref flw-item-tip" 
+           title="Ms. Pat: Y&#39;all Wanna Hear Something Crazy?"><i class="fa fa-play"></i></a>
+    </div>
+    <div class="film-detail film-detail-fix">
+ 
+            <h3 class="film-name"><a
+                        href="/movie/watch-ms-pat-yall-wanna-hear-something-crazy-full-81265" 
+                        title="Ms. Pat: Y&#39;all Wanna Hear Something Crazy?">Ms. Pat: Y&#39;all Wanna Hear Something Crazy?</a>
+            </h3>
+ 
+        <div class="fd-infor">
+ 
+                <span class="fdi-item">2022</span>
+ 
+            <span class="float-right fdi-type">Movie</span>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+ 
+ 
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </section>
+ 
+                <h2 style="display:none;">movies free, stream hd, hd movies watch, watch movies free, watch series free, watch movies online, watch series online, free movies, free tv shows</h2>
+            </div>
+        </div>
+        <div style="text-align:center;margin-bottom: 20px;margin-top:20px;display:none;" id="gift-bottom"></div>
+<div id="footer">
+    <h1 style="display: none;">HDtoday website - Free Movies and Free Series Online</h1>
+    <div class="container">
+        <div class="footer-about">
+            <div class="footer-fa-text">HDToday is a Free Movies streaming site with zero ads.
+                We let you watch movies online without having to register or paying, with over 10000 movies and
+                TV-Series.
+                You can also Download full movies from HDToday and watch it later if you want.
+            </div>
+            <div class="footer-fa-menu">
+                <a href="/android-movies-apk" title="Android App">Android App</a><span class="space">-</span>
+                <a href="/terms" title="Terms of service">Terms of service</a><span class="space">-</span>
+                <a href="/contact" title="Contact">Contact</a><span class="space">-</span>
+                <a href="/sitemap.xml" title="Sitemap">Sitemap</a>
+ 
+ 
+            </div>
+        </div>
+        <div class="footer-notice">
+            <span>HDToday does not store any files on our server, we only linked to the media which is hosted on 3rd party services.</span>
+        </div>
+        <div class="footer-logo-block">
+            <a href="/" class="footer-logo"><img
+                        src="https://img.hdtoday.cc/xxrz/400x400/100/c4/93/c49337aa9c92d6fbf56b6b5830c6849c/c49337aa9c92d6fbf56b6b5830c6849c.png" alt="Logo footer"></a>
+            <p class="copyright">© HDToday</p>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+ 
+    </div>
+    <div class="modal fade premodal premodal-login" id="modallogin" tabindex="-1" role="dialog"
+     aria-labelledby="modallogintitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="tab-content">
+                <!--Begin: tab login-->
+                <div id="modal-tab-login" class="tab-pane active auth-tab">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modallogintitle">Welcome back!</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-logo mb-3"><img
+                                    src="/images/group_1/theme_7/logo-square.png"
+                                    alt="Logo">
+                        </div>
+                        <form class="preform" @submit="login" method="post">
+                            <div v-if="error_login" class="alert alert-danger" role="alert">{{error_message}}</div>
+                            <div class="form-group">
+                                <label class="prelabel" for="email">Email address</label>
+                                <input v-model="email" type="email" class="form-control" id="email"
+                                       placeholder="name@email.com" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="prelabel" for="password">Password</label>
+                                <input v-model="password" type="password" class="form-control" id="password"
+                                       placeholder="Password" required>
+                            </div>
+                            <div class="form-check custom-control custom-checkbox">
+                                <div class="float-left">
+                                    <input name="remember" v-model="remember" type="checkbox"
+                                           class="custom-control-input" id="remember">
+                                    <label class="custom-control-label" for="remember">Remember me</label>
+                                </div>
+                                <div class="float-right">
+                                    <a @click="show_forgot" href="javascript:void(0)"
+                                       class="link-highlight text-forgot">Forgot password?</a>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="form-group login-btn mt-4">
+                                <button class="btn btn-primary btn-block">Login</button>
+                                <div class="loading-relative" id="login-loading" style="display: none;">
+                                    <div class="loading">
+                                        <div class="span1"></div>
+                                        <div class="span2"></div>
+                                        <div class="span3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer text-center">
+                        Don't have an account? <a @click="show_register" href="javascript:void(0)"
+                                                  class="link-highlight"
+                                                  title="Register">Register</a>
+                    </div>
+                </div>
+                <!--End: tab login-->
+                <!--Begin: tab forgot-->
+                <div id="modal-tab-forgot" class="tab-pane fade auth-tab">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modallogintitle3">Reset Password</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="preform" @submit="forgot_password" method="post">
+                            <div class="form-group">
+                                <label class="prelabel" for="forgot-email">Your Email</label>
+                                <input v-model="email" type="email" class="form-control" id="forgot-email"
+                                       placeholder="name@email.com" required>
+                            </div>
+                            <div class="form-group login-btn mt-4">
+                                <button class="btn btn-primary btn-block">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer text-center">
+                        <a @click="show_login" class="link-highlight" title="Sign-in"><i
+                                    class="fa fa-angle-left mr-2"></i>Back
+                            to Login</a>
+                    </div>
+                </div>
+                <!--End: tab forgot-->
+                <!--Begin: tab register-->
+                <div id="modal-tab-register" class="tab-pane fade auth-tab">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modallogintitle2">Create an Account</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="preform" @submit="register" method="post">
+                            <div v-if="error_register" class="alert alert-danger" role="alert">{{error_message}}
+                            </div>
+                            <div class="form-group">
+                                <label class="prelabel" for="re-username">Your name</label>
+                                <input v-model="name" type="text" class="form-control" id="re-username"
+                                       placeholder="Name" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="prelabel" for="re-email">Email address</label>
+                                <input v-model="email" type="email" class="form-control" id="re-email"
+                                       placeholder="name@email.com" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="prelabel" for="re-password">Password</label>
+                                <input v-model="password" type="password" class="form-control" id="re-password"
+                                       placeholder="Password" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="prelabel"
+                                       for="re-confirmpassword">Confirm Password</label>
+                                <input v-model="confirm_password" type="password" class="form-control"
+                                       id="re-confirmpassword"
+                                       placeholder="Confirm Password" autocomplete="off" required>
+                            </div>
+                            <div class="form-group login-btn mt-4">
+                                <button class="btn btn-primary btn-block">Register</button>
+                                <div class="loading-relative" id="register-loading" style="display: none;">
+                                    <div class="loading">
+                                        <div class="span1"></div>
+                                        <div class="span2"></div>
+                                        <div class="span3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer text-center">
+                        Have an account? <a @click="show_login" class="link-highlight"
+                                            title="Login">Login</a>
+                    </div>
+                </div>
+                <!--End: tab register-->
+            </div>
+        </div>
+    </div>
+</div>
+ 
+</div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.1/lazysizes.min.js"
+        async></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@beta/dist/js.cookie.min.js"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5da59293a14f83e9" async></script>
+ 
+    <!-- Start of  Zendesk Widget script -->
+    <script id="ze-snippet"
+            src="https://static.zdassets.com/ekr/snippet.js?key=77196c29-9d2b-4414-bc79-7543a13d07e3" async></script>
+    <!-- End of  Zendesk Widget script -->
+ 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js"></script>
+<script>var currPage = 'home';</script>
+<script type="text/javascript"
+        src="/js/group_1/app.min.js?v=6.1"></script>
+ 
+ 
+ 
+</body>
+</html>
+ 
